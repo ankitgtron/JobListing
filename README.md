@@ -115,7 +115,7 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Initialize a Next.js project with Tailwind CSS.
      - **Reading:** [Next.js Setup Guide](https://nextjs.org/docs/getting-started)
-     - **Video:** [Next.js Full Setup](https://www.youtube.com/watch?v=mfMrivbJAy4)
+     - **Video:** [Next.js Full Setup](https://www.youtube.com/watch?v=ZjAqacIC_3c&list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI)
   2. Build the basic homepage layout with a header and hero section.
      - **Reading:** [Tailwind CSS Components](https://tailwindcss.com/docs)
      - **Video:** [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
@@ -130,10 +130,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Set up authentication using WorkOS.
      - **Reading:** [WorkOS Authentication Guide](https://workos.com/docs/authentication)
-     - **Video:** [Secure Login with WorkOS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+     - **Video:** [Secure Login with WorkOS](https://www.youtube.com/watch?v=9MgLlz1uX38)
   2. Design and implement login and signup pages.
      - **Reading:** [Next.js API Routes](https://nextjs.org/docs/api-routes/introduction)
-     - **Video:** [Next.js Authentication](https://www.youtube.com/watch?v=mfMrivbJAy4)
+     - **Video:** [Next.js Authentication](https://www.youtube.com/watch?v=DJvM2lSPn6w)
 
 - **Deliverables:**
   - Functional login and signup pages with authentication.
@@ -147,8 +147,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading:** [Building REST APIs](https://expressjs.com/en/starter/basic-routing.html)
      - **Video:** [RESTful APIs with Node.js](https://www.youtube.com/watch?v=pKd0Rpw7O48)
   2. Design the job listing and posting pages.
-     - **Reading:** [React State Management](https://reactjs.org/docs/state-and-lifecycle.html)
-     - **Video:** [React Form Handling](https://www.youtube.com/watch?v=S0Su4FZ2CnY)
+     - **Reading:** [Next js forms](https://nextjs.org/docs/app/api-reference/components/form)
+     - **Video:** [Nextjs Form Handling](https://www.youtube.com/watch?v=dDpZfOQBMaU)
 
 - **Deliverables:**
   - Job posting and listing features with search functionality.
@@ -163,7 +163,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Postman API Testing](https://www.youtube.com/watch?v=VywxIQ2ZXw4)
   2. Deploy the application on Vercel.
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)
-     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=mTz0GXj8NN0)
+     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=YyeyXhKvgPY)
 
 - **Deliverables:**
   - Fully deployed JobListing application accessible online.
